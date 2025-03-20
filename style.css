@@ -1,0 +1,26 @@
+body{
+    background-color: #a7bc2f;
+    text-align: center;
+    margin-top: 2%;
+    font-family: Verdana;
+}
+
+button{
+    font-size: 5rem;
+    font-weight: bold;
+    padding: 15px 30px;
+    background-color:black;
+    color: white;
+    border-radius: 10px;
+}
+
+button:hover{
+    background-color:red;
+}
+
+label{
+    font-size: 8em;
+    font-weight: bold;
+    color:black;
+    
+}
